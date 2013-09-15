@@ -2,9 +2,6 @@
 //  objStationData.m
 //  IrishRailRT
 //
-//  Created by Florence Jeulin on 11/09/13.
-//  Copyright (c) 2013 Dauran SARL. All rights reserved.
-//
 
 #import "objStationData.h"
 

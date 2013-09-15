@@ -1,9 +1,5 @@
 //
 //  XMLToObjectParser.m
-//  MConv
-//
-//  Created by SARL DAURAN on 27/04/10.
-//  Copyright 2010 Dauran SARL. All rights reserved.
 //
 
 #import "XMLToObjectParser.h"

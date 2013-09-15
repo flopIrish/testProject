@@ -2,9 +2,6 @@
 //  IRDataManager.h
 //  IrishRailRT
 //
-//  Created by Florence Jeulin on 10/09/13.
-//  Copyright (c) 2013 Dauran SARL. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 #import "XMLToObjectParser.h"
