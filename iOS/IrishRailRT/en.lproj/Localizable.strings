@@ -1,0 +1,11 @@
+/* 
+   Localizable.strings
+   IrishRailRT
+
+   Created by SARL DAURAN on 24/06/10.
+   Copyright 2010 Dauran SARL. All rights reserved.
+ */
+
+"NoTrain90"="There is no train for your journey for the next 90 min. You can check official Irish rail Website to know the daily schedules of your train. Go to the tab Planner.";
+"DataError"="An error occured during the connexion to Irish Rail website";
+"TryAgain"="Try again later";

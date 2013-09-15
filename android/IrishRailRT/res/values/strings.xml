@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IrishRailRT</string>
+    <string name="action_settings">Settings</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="arklw">Arklow</string>
+    <string name="skill">Shankill</string>
+    <string name="bray">Bray</string>
+    <string name="next">Next Train:</string>
+    <string name="notrain">There is no train for your journey for the next 90 min. You can check official Irish rail Website to know the daily schedules of your train. Go to the tab Planner.</string>
+    <string name="connection_error">Connection error</string>
+    <string name="xml_error">XML error</string>
+
+</resources>
